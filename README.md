@@ -1,2 +1,2 @@
 # SavingsHelper
-A simple pythno program to help you manage monthly expenses 
+A simple python program to help you manage monthly expenses 
